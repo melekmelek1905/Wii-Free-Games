@@ -1,0 +1,29 @@
+
+html {
+ background-image: url(777.gif);
+  background-size: cover;
+  
+}
+h1{
+  background-color: rgb(243, 174, 174);
+  border:10px solid  rgb(201, 163, 163);
+  color: rgb(194, 145, 80);
+  font-family: fantasy;
+  font-weight: 300;
+  
+    display: flex;
+  justify-content: center;
+  
+}
+p{
+  border:5px solid  rgb(108, 129, 146);
+  background-color: rgb(236, 210, 170);
+  font-family: fantasy;
+  display: flex;
+  justify-content: space-around;
+}
+ul,ol{
+  border:10px solid  rgb(75, 122, 116);
+  background-color: rgb(152, 226, 226);
+  font-family: fantasy;
+}
